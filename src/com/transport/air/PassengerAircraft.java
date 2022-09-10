@@ -1,4 +1,4 @@
-package com.transport.AirTansport;
+package com.transport.air;
 // пассажирский самолет
 public class PassengerAircraft {
 }

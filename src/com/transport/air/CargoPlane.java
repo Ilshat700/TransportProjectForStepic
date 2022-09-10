@@ -1,4 +1,4 @@
-package com.transport.AirTansport;
+package com.transport.air;
 // грузовой самолет
 public class CargoPlane {
 }

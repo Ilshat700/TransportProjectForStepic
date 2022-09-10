@@ -1,4 +1,4 @@
-package com.transport.MilitaryTransport;
+package com.transport.military;
 // боевой вертолёт
 public class CombatHelicopter implements ShotService{
     @Override

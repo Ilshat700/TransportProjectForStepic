@@ -1,4 +1,4 @@
-package com.transport.GroundTransportation;
+package com.transport.ground;
 // автобус
 public class Bus extends PublicTransport{
 }

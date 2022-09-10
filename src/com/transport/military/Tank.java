@@ -1,4 +1,4 @@
-package com.transport.MilitaryTransport;
+package com.transport.military;
 // танк
 public class Tank implements ShotService{
     @Override

@@ -1,4 +1,4 @@
-package com.transport.MilitaryTransport;
+package com.transport.military;
 // артиллерия
 public class Artillery implements ShotService{
     @Override

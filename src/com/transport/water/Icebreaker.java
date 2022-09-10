@@ -1,4 +1,4 @@
-package com.transport.WaterTransport;
+package com.transport.water;
 // ледокол
 public class Icebreaker {
 }

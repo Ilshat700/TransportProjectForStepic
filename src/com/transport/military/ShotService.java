@@ -1,4 +1,4 @@
-package com.transport.MilitaryTransport;
+package com.transport.military;
 
 public interface ShotService {
 
